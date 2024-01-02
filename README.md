@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AaRonStaRK019
-- 👀 I’m interested in FrontEnd Web and App Development 
-- 🌱 I’m currently learning JavaScript & React
-- 💞️ I’m looking to collaborate on any web projects
+- 👋 Hi, I’m Nuel
+- 👀 FrontEnd Web Developer⌛ && Cloud Engineer ⏳
+- 🌱 Current Stack - Bootstrap CSS, JS, jQuery, React.
+- 💞️ I’m free to collaborate on any web projects
 - 📫 How to reach me
-email - nwokeochaemma01@gmail.com
-twitter - https://twitter.com/Aa_Ron019
+email - nuelthedeveloper@gmail.com
+twitter - https://twitter.com/nuelDStark
 
 
 <!---

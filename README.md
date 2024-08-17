@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Nuel
 - CLoud Engineer || Frontend Engineer
-- 🌱 Current Stack - Linux, SHell, Ansible, AWS || Bootstrap CSS, JS, jQuery, React.
+- 🌱 Current Stack
+-  DevOps - Linux, Bash, Terraform, Kubernetes Ansible, AWS
+-   Frontend -  ReactJS, Tailwind CSS, Bootstrap CSS
 - 💞️ I’m free to collaborate on any Cloud and Web projects
 - 📫 How to reach me
 email - nuelthedeveloper@gmail.com
